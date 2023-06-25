@@ -1,0 +1,3 @@
+[RSW::OK]
+[RSW::NAME] :~> @mywasm/foo
+[RSW::PATH] :~> /Users/mohongen/Documents/mohongen/tauri/my-tauri-app/@mywasm/foo/src/lib.rs
